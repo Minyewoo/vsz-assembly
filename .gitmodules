@@ -1,0 +1,12 @@
+[submodule "api-server"]
+	path = api-server
+	url = https://github.com/a-givertzman/api-server
+	branch = vsz-docker
+[submodule "cma-server"]
+	path = cma-server
+	url = https://github.com/a-givertzman/cma-server
+	branch = cma-server-vsz
+[submodule "cma_registrator"]
+	path = cma_registrator
+	url = https://github.com/a-givertzman/cma_registrator
+	branch = table-filtration
