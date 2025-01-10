@@ -10,3 +10,7 @@
 	path = cma_registrator
 	url = https://github.com/a-givertzman/cma_registrator
 	branch = table-filtration
+[submodule "cma_vsz"]
+	path = cma_vsz
+	url = https://github.com/a-givertzman/cma_vsz
+	branch = new-screens-vsz
